@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75a9f4a5-133e-42a7-98a3-7c70cb5ce92f" name="Changes" comment="Adding POJOs">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/sfgpetclinic/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/sfgpetclinic/model/Vet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/com/springframework/Main.java" afterDir="false" />
+    <list default="true" id="75a9f4a5-133e-42a7-98a3-7c70cb5ce92f" name="Changes" comment="Temporary Multimodule">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/SfgPetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/com/springframework/sfgpetclinic/SfgPetClinicApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/model/Owner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/sfgpetclinic/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springframework/sfgpetclinic/model/PetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springframework/sfgpetclinic/model/Vet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/springframework/sfgpetclinic/SfgPetClinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/com/springframework/sfgpetclinic/SfgPetClinicApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +46,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Ennea/OneDrive/Desktop/spring5/sfg-pet-clinic",
+    "last_opened_file_path": "C:/Users/Ennea/OneDrive/Desktop/spring5/sfg-pet-clinic/pet-clinic-web/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "921bb763c77aee29f853016678c416f6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,10 +71,22 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.springframework.sfgpetclinic.model" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ennea\OneDrive\Desktop\spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ennea\OneDrive\Desktop\spring5\sfg-pet-clinic\pet-clinic-web\src\test\java" />
+      <recent name="C:\Users\Ennea\OneDrive\Desktop\spring5\sfg-pet-clinic\pet-clinic-data\src\main\resources" />
       <recent name="C:\Users\Ennea\OneDrive\Desktop\spring5\sfg-pet-clinic\pet-clinic-data\src\main\java" />
       <recent name="C:\Users\Ennea\OneDrive\Desktop\spring5\sfg-pet-clinic\pet-clinic-web\src\main\java" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SfgPetClinicApplication">
     <configuration default="true" type="JetRunConfigurationType">
@@ -114,7 +124,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672055253462</updated>
       <workItem from="1672055254591" duration="591000" />
-      <workItem from="1672055913920" duration="3324000" />
+      <workItem from="1672055913920" duration="3830000" />
+      <workItem from="1672068409361" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1672055732698</created>
@@ -137,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672056540922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Temporary Multimodule">
+      <created>1672059520177</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672059520177</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +165,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Adding POJOs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding POJOs" />
+    <MESSAGE value="Temporary Multimodule" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temporary Multimodule" />
   </component>
 </project>

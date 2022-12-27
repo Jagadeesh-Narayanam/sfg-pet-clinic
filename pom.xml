@@ -50,7 +50,7 @@
 
         </plugins>
     </build>
-<!--    <scm>-->
-<!--        <developerConnection>scm:git:git@github.com:Jagadeesh-Narayanam/sfg-pet-clinic.git</developerConnection>-->
-<!--    </scm>-->
+    <scm>
+        <developerConnection>scm:git:git@github.com:Jagadeesh-Narayanam/sfg-pet-clinic.git</developerConnection>
+    </scm>
 </project>
